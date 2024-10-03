@@ -3,8 +3,7 @@
 
 #define MAX 10
 
-typedef struct
-{
+typedef struct {
     int data;
     int priority;
 } PQElement;
